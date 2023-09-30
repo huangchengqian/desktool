@@ -1,0 +1,5 @@
+
+trans:
+  app_id: "20220506001205445"
+  secret: "aPfSUm3b36n0UVh_YfBF"
+  trans_api: "https://fanyi-api.baidu.com/api/trans/vip/translate"
